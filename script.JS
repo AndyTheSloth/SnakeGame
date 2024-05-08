@@ -2,8 +2,8 @@ const canvas = document.getElementById('game-canvas');
 const ctx = canvas.getContext('2d');
 
 // Set canvas dimensions
-canvas.width = 400;
-canvas.height = 400;
+canvas.width = 300;
+canvas.height = 300;
 
 // Set grid size
 const gridSize = 20;
