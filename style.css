@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: black; /* Set background color to black */
+}
+
+#game-canvas {
+  border: 1px solid black;
+}
+
+.button-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.button-container button {
+  font-size: 24px;
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #166316;
+  color: #cdd6ce;
+  cursor: pointer;
+}
+
+.button-container button:hover {
+  background-color: #3e8e41;
+}
