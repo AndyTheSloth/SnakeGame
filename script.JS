@@ -93,7 +93,7 @@ function update() {
   document.title = 'Snake Game - Score: ' + score;
 
   // Request next frame with a delay
-  setTimeout(update, 100);
+  setTimeout(update, 120);
 }
 
 // Handle keyboard input
